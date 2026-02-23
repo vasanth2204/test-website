@@ -132,7 +132,7 @@ hero: {
     minHeight: '85vh',
     
     // Corrected line below:
-    background: `url("/peekaboo/store.png")`, 
+    background: `url("/peekaboo/public/store.png")`, 
     // Note: I added a leading '/' assuming 'peekaboo' is a folder in your public directory.
     // If the image is directly in the public folder, use: url("/Gemini_Generated_Image_714ucu714ucu714u.png")
     
