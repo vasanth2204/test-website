@@ -489,7 +489,7 @@ const About = () => (
   boxShadow: THEME.shadow
 }}>
   <img
-    src="/store.png"   // ← change to your image path
+    src="/public/store.png"   // ← change to your image path
     alt="Peekaboo Store"
     style={{
       width: '100%',
